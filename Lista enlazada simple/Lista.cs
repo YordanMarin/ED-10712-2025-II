@@ -1,0 +1,163 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Lista_enlazada_simple
+{
+    internal class Lista
+    {
+        Nodo primero = null;
+
+        public void insertar(int num)
+        {
+            Nodo nuevo = new Nodo();
+            nuevo.Numero = num;
+
+            if(primero == null)
+            {
+                primero = nuevo;
+                //nuevo.Siguiente = null;
+            }
+            else
+            {
+                Nodo actual = primero;
+
+                while(actual.Siguiente != null)
+                {
+                    actual = actual.Siguiente;
+                }
+                actual.Siguiente = nuevo;
+                //nuevo.Siguiente = null;
+            }
+        }
+
+        public void mostrar(ListBox list)
+        {
+            Nodo actual = primero;
+
+            while(actual != null)
+            {
+                list.Items.Add(actual.Numero);
+                actual = actual.Siguiente;
+            }
+        }
+
+        public void eliminar(int num)
+        {
+            Nodo actual = primero;
+            Nodo anterior = null;
+
+            while(actual != null)
+            {
+                if(actual.Numero == num)
+                {
+                    if(actual == primero)
+                    {
+                        primero = primero.Siguiente;
+                    }
+                    else
+                    {
+                        anterior.Siguiente = actual.Siguiente;
+                    }
+                    return;
+                }
+
+                anterior = actual;
+                actual = actual.Siguiente;
+            }
+        }
+
+    public bool buscar(int num)
+    {
+      Nodo actual = primero;
+
+      while(actual != null)
+      {
+        if(actual.Numero == num)
+        {
+          return true;
+        }
+        actual = actual.Siguiente;
+      }
+      return false;
+    }
+
+    public void ordenarA()
+    {
+      Nodo actual = primero;
+      while(actual != null)
+      {
+        Nodo sig = actual.Siguiente;
+
+        while(sig != null)
+        {
+          if(actual.Numero > sig.Numero)
+          {
+            int temp = actual.Numero;
+            actual.Numero = sig.Numero;
+            sig.Numero = temp;
+          }
+
+          sig = sig.Siguiente;
+        }
+
+        actual = actual.Siguiente;
+      }
+    }
+
+    public int cantidad()
+    {
+      int cant = 0;
+      Nodo actual = primero;
+
+      while(actual != null)
+      {
+        cant++;
+        actual = actual.Siguiente;
+      }
+      return cant;
+    }
+
+    public void mezclar()
+    {
+      int cant = cantidad();
+
+      if(cant > 1)
+      {
+        int[] numero = new int[cant];
+
+        Nodo actual = primero;
+
+        //almacenado los valores de la lista en un arreglo
+        for(int i = 0; i < cant; i++)
+        {
+          numero[i] = actual.Numero;
+          actual = actual.Siguiente;
+        }
+
+        //aplicar shuffle
+        Random rnd = new Random();
+        for(int i = cant - 1; i > 0; i--)
+        {
+          int j= rnd.Next(i+1);
+
+          int temp = numero[i];
+          numero[i] = numero[j];
+          numero[j] = temp;
+        }
+
+        //reasignar los valores
+        actual = primero;
+        for (int i = 0; i < cant; i++)
+        {
+          actual.Numero=numero[i];
+          actual = actual.Siguiente;
+        }
+      }
+    }
+
+    }
+}
