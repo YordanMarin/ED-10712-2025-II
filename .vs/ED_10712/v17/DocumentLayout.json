@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\ED\\ED-10712-2025-II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EBC29FE-48B1-4DB4-968C-F43B6C321373}|Lista enlazada simple\\Lista enlazada simple.csproj|C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\lista enlazada simple\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EBC29FE-48B1-4DB4-968C-F43B6C321373}|Lista enlazada simple\\Lista enlazada simple.csproj|solutionrelative:lista enlazada simple\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D2E5411-DAC8-45F0-8459-F8D19CCF01B4}|Lista enlazada doble\\Lista enlazada doble.csproj|c:\\users\\upn\\desktop\\ed\\ed-10712-2025-ii\\lista enlazada doble\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2E5411-DAC8-45F0-8459-F8D19CCF01B4}|Lista enlazada doble\\Lista enlazada doble.csproj|solutionrelative:lista enlazada doble\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EBC29FE-48B1-4DB4-968C-F43B6C321373}|Lista enlazada simple\\Lista enlazada simple.csproj|c:\\users\\upn\\desktop\\ed\\ed_10712\\lista enlazada simple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EBC29FE-48B1-4DB4-968C-F43B6C321373}|Lista enlazada simple\\Lista enlazada simple.csproj|solutionrelative:lista enlazada simple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D2E5411-DAC8-45F0-8459-F8D19CCF01B4}|Lista enlazada doble\\Lista enlazada doble.csproj|c:\\users\\upn\\desktop\\ed\\ed-10712-2025-ii\\lista enlazada doble\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2E5411-DAC8-45F0-8459-F8D19CCF01B4}|Lista enlazada doble\\Lista enlazada doble.csproj|solutionrelative:lista enlazada doble\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EBC29FE-48B1-4DB4-968C-F43B6C321373}|Lista enlazada simple\\Lista enlazada simple.csproj|C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\lista enlazada simple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0EBC29FE-48B1-4DB4-968C-F43B6C321373}|Lista enlazada simple\\Lista enlazada simple.csproj|solutionrelative:lista enlazada simple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8D2E5411-DAC8-45F0-8459-F8D19CCF01B4}|Lista enlazada doble\\Lista enlazada doble.csproj|c:\\users\\upn\\desktop\\ed\\ed-10712-2025-ii\\lista enlazada doble\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D2E5411-DAC8-45F0-8459-F8D19CCF01B4}|Lista enlazada doble\\Lista enlazada doble.csproj|solutionrelative:lista enlazada doble\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EBC29FE-48B1-4DB4-968C-F43B6C321373}|Lista enlazada simple\\Lista enlazada simple.csproj|C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\lista enlazada simple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EBC29FE-48B1-4DB4-968C-F43B6C321373}|Lista enlazada simple\\Lista enlazada simple.csproj|solutionrelative:lista enlazada simple\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D2E5411-DAC8-45F0-8459-F8D19CCF01B4}|Lista enlazada doble\\Lista enlazada doble.csproj|c:\\users\\upn\\desktop\\ed\\ed-10712-2025-ii\\lista enlazada doble\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2E5411-DAC8-45F0-8459-F8D19CCF01B4}|Lista enlazada doble\\Lista enlazada doble.csproj|solutionrelative:lista enlazada doble\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\Lista enlazada simple\\Form1.cs",
-              "RelativeDocumentMoniker": "Lista enlazada simple\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\Lista enlazada simple\\Form1.cs",
-              "RelativeToolTip": "Lista enlazada simple\\Form1.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAArwDIAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\ED-10712-2025-II\\Lista enlazada doble\\Form1.cs",
+              "RelativeDocumentMoniker": "Lista enlazada doble\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\ED-10712-2025-II\\Lista enlazada doble\\Form1.cs",
+              "RelativeToolTip": "Lista enlazada doble\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T16:51:00.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lista.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\Lista enlazada simple\\Lista.cs",
-              "RelativeDocumentMoniker": "Lista enlazada simple\\Lista.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\Lista enlazada simple\\Lista.cs",
-              "RelativeToolTip": "Lista enlazada simple\\Lista.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAgwJwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T16:26:08.656Z",
+              "WhenOpened": "2025-09-05T17:08:26.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\Lista enlazada simple\\Nodo.cs",
-              "RelativeDocumentMoniker": "Lista enlazada simple\\Nodo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\Lista enlazada simple\\Nodo.cs",
-              "RelativeToolTip": "Lista enlazada simple\\Nodo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\ED-10712-2025-II\\Lista enlazada doble\\Nodo.cs",
+              "RelativeDocumentMoniker": "Lista enlazada doble\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\ED-10712-2025-II\\Lista enlazada doble\\Nodo.cs",
+              "RelativeToolTip": "Lista enlazada doble\\Nodo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T16:21:55.366Z",
+              "WhenOpened": "2025-09-05T16:53:43.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\ED-10712-2025-II\\Lista enlazada doble\\Lista.cs",
+              "RelativeDocumentMoniker": "Lista enlazada doble\\Lista.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\ED-10712-2025-II\\Lista enlazada doble\\Lista.cs",
+              "RelativeToolTip": "Lista enlazada doble\\Lista.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:53:36.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\Lista enlazada simple\\Form1.cs",
-              "RelativeDocumentMoniker": "Lista enlazada simple\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\ED_10712\\Lista enlazada simple\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Lista enlazada simple\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\ED-10712-2025-II\\Lista enlazada doble\\Form1.cs",
+              "RelativeDocumentMoniker": "Lista enlazada doble\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\ED-10712-2025-II\\Lista enlazada doble\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Lista enlazada doble\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T16:07:47.408Z",
+              "WhenOpened": "2025-09-05T16:52:46.012Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
