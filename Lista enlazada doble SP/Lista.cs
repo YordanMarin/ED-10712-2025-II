@@ -70,5 +70,31 @@ namespace Lista_enlazada_doble_SP
         modificar.Edad = nuevoEd;
       }
     }
+
+    public void eliminar(string nombre)
+    {
+      Nodo eliminar = buscar(nombre);
+
+      if(eliminar == primero)
+      {
+        primero = primero.Siguiente;
+        if(primero != null)
+        {
+          primero.Anterior = null;
+        }
+      }else if(eliminar == ultimo)
+      {
+        ultimo = ultimo.Anterior;
+        if(ultimo != null)
+        {
+          ultimo.Siguiente = null;
+        }
+      }
+      else
+      {
+        eliminar.Anterior.Siguiente = eliminar.Siguiente;
+        eliminar.Siguiente.Anterior = eliminar.Anterior;
+      }
+    }
   }
 }

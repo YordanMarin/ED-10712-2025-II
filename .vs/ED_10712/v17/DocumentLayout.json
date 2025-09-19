@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F774F6A-BA8D-46C4-9F7E-66EBFEBB36D9}|Lista enlazada doble SP\\Lista enlazada doble SP.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\lista enlazada doble sp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F774F6A-BA8D-46C4-9F7E-66EBFEBB36D9}|Lista enlazada doble SP\\Lista enlazada doble SP.csproj|solutionrelative:lista enlazada doble sp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FEDC63B-FCE0-4758-AB27-8D31A8DE38B1}|Pilas-Stack\\Pilas-Stack.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\pilas-stack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEDC63B-FCE0-4758-AB27-8D31A8DE38B1}|Pilas-Stack\\Pilas-Stack.csproj|solutionrelative:pilas-stack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F774F6A-BA8D-46C4-9F7E-66EBFEBB36D9}|Lista enlazada doble SP\\Lista enlazada doble SP.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\lista enlazada doble sp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F774F6A-BA8D-46C4-9F7E-66EBFEBB36D9}|Lista enlazada doble SP\\Lista enlazada doble SP.csproj|solutionrelative:lista enlazada doble sp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0FEDC63B-FCE0-4758-AB27-8D31A8DE38B1}|Pilas-Stack\\Pilas-Stack.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\pilas-stack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FEDC63B-FCE0-4758-AB27-8D31A8DE38B1}|Pilas-Stack\\Pilas-Stack.csproj|solutionrelative:pilas-stack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F774F6A-BA8D-46C4-9F7E-66EBFEBB36D9}|Lista enlazada doble SP\\Lista enlazada doble SP.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\lista enlazada doble sp\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F774F6A-BA8D-46C4-9F7E-66EBFEBB36D9}|Lista enlazada doble SP\\Lista enlazada doble SP.csproj|solutionrelative:lista enlazada doble sp\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F774F6A-BA8D-46C4-9F7E-66EBFEBB36D9}|Lista enlazada doble SP\\Lista enlazada doble SP.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\lista enlazada doble sp\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F774F6A-BA8D-46C4-9F7E-66EBFEBB36D9}|Lista enlazada doble SP\\Lista enlazada doble SP.csproj|solutionrelative:lista enlazada doble sp\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FEDC63B-FCE0-4758-AB27-8D31A8DE38B1}|Pilas-Stack\\Pilas-Stack.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\pilas-stack\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEDC63B-FCE0-4758-AB27-8D31A8DE38B1}|Pilas-Stack\\Pilas-Stack.csproj|solutionrelative:pilas-stack\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Pilas-Stack\\Pila.cs",
+              "RelativeDocumentMoniker": "Pilas-Stack\\Pila.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Pilas-Stack\\Pila.cs",
+              "RelativeToolTip": "Pilas-Stack\\Pila.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwEAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:27:38.708Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Lista enlazada doble SP\\Form1.cs",
-              "RelativeDocumentMoniker": "Lista enlazada doble SP\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Lista enlazada doble SP\\Form1.cs",
-              "RelativeToolTip": "Lista enlazada doble SP\\Form1.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAA9wEoAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Pilas-Stack\\Form1.cs",
+              "RelativeDocumentMoniker": "Pilas-Stack\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Pilas-Stack\\Form1.cs",
+              "RelativeToolTip": "Pilas-Stack\\Form1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAEwEsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T16:27:06.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lista.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Lista enlazada doble SP\\Lista.cs",
-              "RelativeDocumentMoniker": "Lista enlazada doble SP\\Lista.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Lista enlazada doble SP\\Lista.cs",
-              "RelativeToolTip": "Lista enlazada doble SP\\Lista.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAwwEUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T16:09:00.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Lista enlazada doble SP\\Nodo.cs",
-              "RelativeDocumentMoniker": "Lista enlazada doble SP\\Nodo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Lista enlazada doble SP\\Nodo.cs",
-              "RelativeToolTip": "Lista enlazada doble SP\\Nodo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T16:06:51.688Z",
+              "WhenOpened": "2025-09-19T16:19:47.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Lista enlazada doble SP\\Form1.cs",
-              "RelativeDocumentMoniker": "Lista enlazada doble SP\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Lista enlazada doble SP\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Lista enlazada doble SP\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Pilas-Stack\\Form1.cs",
+              "RelativeDocumentMoniker": "Pilas-Stack\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\Pilas-Stack\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pilas-Stack\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T15:58:23.501Z",
+              "WhenOpened": "2025-09-19T16:19:03.156Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
