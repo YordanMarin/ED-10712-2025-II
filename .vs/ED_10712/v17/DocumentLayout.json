@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{487192D0-8B3E-447C-AB7A-15A129AEB8EB}|ABB2\\ABB2.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\abb2\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487192D0-8B3E-447C-AB7A-15A129AEB8EB}|ABB2\\ABB2.csproj|solutionrelative:abb2\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}|ABB3\\ABB3.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\abb3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}|ABB3\\ABB3.csproj|solutionrelative:abb3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{487192D0-8B3E-447C-AB7A-15A129AEB8EB}|ABB2\\ABB2.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\abb2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487192D0-8B3E-447C-AB7A-15A129AEB8EB}|ABB2\\ABB2.csproj|solutionrelative:abb2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}|ABB3\\ABB3.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\abb3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}|ABB3\\ABB3.csproj|solutionrelative:abb3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{487192D0-8B3E-447C-AB7A-15A129AEB8EB}|ABB2\\ABB2.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\abb2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{487192D0-8B3E-447C-AB7A-15A129AEB8EB}|ABB2\\ABB2.csproj|solutionrelative:abb2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}|ABB3\\ABB3.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\abb3\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}|ABB3\\ABB3.csproj|solutionrelative:abb3\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{487192D0-8B3E-447C-AB7A-15A129AEB8EB}|ABB2\\ABB2.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\abb2\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487192D0-8B3E-447C-AB7A-15A129AEB8EB}|ABB2\\ABB2.csproj|solutionrelative:abb2\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}|ABB3\\ABB3.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\abb3\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}|ABB3\\ABB3.csproj|solutionrelative:abb3\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,58 +30,66 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB2\\Form1.cs",
-              "RelativeDocumentMoniker": "ABB2\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB2\\Form1.cs",
-              "RelativeToolTip": "ABB2\\Form1.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:31:44.47Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "arbol.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB2\\arbol.cs",
-              "RelativeDocumentMoniker": "ABB2\\arbol.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB2\\arbol.cs",
-              "RelativeToolTip": "ABB2\\arbol.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAkwD4AAAAYAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB3\\Form1.cs",
+              "RelativeDocumentMoniker": "ABB3\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB3\\Form1.cs",
+              "RelativeToolTip": "ABB3\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowDoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:16:14.179Z",
+              "WhenOpened": "2025-10-31T16:24:14.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arbol.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB3\\Arbol.cs",
+              "RelativeDocumentMoniker": "ABB3\\Arbol.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB3\\Arbol.cs",
+              "RelativeToolTip": "ABB3\\Arbol.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwEYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:06:58.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB2\\Nodo.cs",
-              "RelativeDocumentMoniker": "ABB2\\Nodo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB2\\Nodo.cs",
-              "RelativeToolTip": "ABB2\\Nodo.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB3\\Nodo.cs",
+              "RelativeDocumentMoniker": "ABB3\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB3\\Nodo.cs",
+              "RelativeToolTip": "ABB3\\Nodo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:16:07.005Z",
+              "WhenOpened": "2025-10-31T16:06:53.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB2\\Form1.cs",
-              "RelativeDocumentMoniker": "ABB2\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB2\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ABB2\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB3\\Form1.cs",
+              "RelativeDocumentMoniker": "ABB3\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\ABB3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ABB3\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T16:01:11.872Z",
+              "WhenOpened": "2025-10-31T16:00:32.441Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
