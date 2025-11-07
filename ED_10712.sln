@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABB2", "ABB2\ABB2.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABB3", "ABB3\ABB3.csproj", "{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafoAdyacencia", "GrafoAdyacencia\GrafoAdyacencia.csproj", "{D213E391-A649-400E-B457-521C0393E78D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A2F4608-3B7B-4A42-8558-C61CE7F9412E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D213E391-A649-400E-B457-521C0393E78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D213E391-A649-400E-B457-521C0393E78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D213E391-A649-400E-B457-521C0393E78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D213E391-A649-400E-B457-521C0393E78D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
