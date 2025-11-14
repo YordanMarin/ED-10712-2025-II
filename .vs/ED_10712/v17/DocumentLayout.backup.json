@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\",
+  "WorkspaceRootPath": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D213E391-A649-400E-B457-521C0393E78D}|GrafoAdyacencia\\GrafoAdyacencia.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\grafoadyacencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D213E391-A649-400E-B457-521C0393E78D}|GrafoAdyacencia\\GrafoAdyacencia.csproj|solutionrelative:grafoadyacencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32EC2CFC-7821-4C11-8BA9-3B6302FA4D6E}|GrafoDijsktra\\GrafoDijsktra.csproj|c:\\users\\yordanm\\desktop\\nueva carpeta\\ed-10712-2025-ii\\grafodijsktra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EC2CFC-7821-4C11-8BA9-3B6302FA4D6E}|GrafoDijsktra\\GrafoDijsktra.csproj|solutionrelative:grafodijsktra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D213E391-A649-400E-B457-521C0393E78D}|GrafoAdyacencia\\GrafoAdyacencia.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\grafoadyacencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D213E391-A649-400E-B457-521C0393E78D}|GrafoAdyacencia\\GrafoAdyacencia.csproj|solutionrelative:grafoadyacencia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{32EC2CFC-7821-4C11-8BA9-3B6302FA4D6E}|GrafoDijsktra\\GrafoDijsktra.csproj|c:\\users\\yordanm\\desktop\\nueva carpeta\\ed-10712-2025-ii\\grafodijsktra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32EC2CFC-7821-4C11-8BA9-3B6302FA4D6E}|GrafoDijsktra\\GrafoDijsktra.csproj|solutionrelative:grafodijsktra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D213E391-A649-400E-B457-521C0393E78D}|GrafoAdyacencia\\GrafoAdyacencia.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\ed-10712-2025-ii\\grafoadyacencia\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D213E391-A649-400E-B457-521C0393E78D}|GrafoAdyacencia\\GrafoAdyacencia.csproj|solutionrelative:grafoadyacencia\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32EC2CFC-7821-4C11-8BA9-3B6302FA4D6E}|GrafoDijsktra\\GrafoDijsktra.csproj|c:\\users\\yordanm\\desktop\\nueva carpeta\\ed-10712-2025-ii\\grafodijsktra\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EC2CFC-7821-4C11-8BA9-3B6302FA4D6E}|GrafoDijsktra\\GrafoDijsktra.csproj|solutionrelative:grafodijsktra\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,56 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoAdyacencia\\Form1.cs",
-              "RelativeDocumentMoniker": "GrafoAdyacencia\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoAdyacencia\\Form1.cs",
-              "RelativeToolTip": "GrafoAdyacencia\\Form1.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAArwCYAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoDijsktra\\Form1.cs",
+              "RelativeDocumentMoniker": "GrafoDijsktra\\Form1.cs",
+              "ToolTip": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoDijsktra\\Form1.cs",
+              "RelativeToolTip": "GrafoDijsktra\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAewDIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T16:09:35.754Z",
+              "WhenOpened": "2025-11-14T16:16:46.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Grafo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoAdyacencia\\Grafo.cs",
-              "RelativeDocumentMoniker": "GrafoAdyacencia\\Grafo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoAdyacencia\\Grafo.cs",
-              "RelativeToolTip": "GrafoAdyacencia\\Grafo.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAqwFIAAAAxAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoDijsktra\\Grafo.cs",
+              "RelativeDocumentMoniker": "GrafoDijsktra\\Grafo.cs",
+              "ToolTip": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoDijsktra\\Grafo.cs",
+              "RelativeToolTip": "GrafoDijsktra\\Grafo.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowEMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T16:03:51.378Z",
+              "WhenOpened": "2025-11-14T16:03:31.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoAdyacencia\\Form1.cs",
-              "RelativeDocumentMoniker": "GrafoAdyacencia\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoAdyacencia\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GrafoAdyacencia\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoDijsktra\\Form1.cs",
+              "RelativeDocumentMoniker": "GrafoDijsktra\\Form1.cs",
+              "ToolTip": "C:\\Users\\YordanM\\Desktop\\Nueva carpeta\\ED-10712-2025-II\\GrafoDijsktra\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GrafoDijsktra\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:53:09.842Z",
+              "WhenOpened": "2025-11-14T16:02:28.005Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
